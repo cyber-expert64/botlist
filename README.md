@@ -1,4 +1,5 @@
 
+**This Project is Licensed under the CE Custom License**
 [License](LICENSE)
 
 Developers: 
