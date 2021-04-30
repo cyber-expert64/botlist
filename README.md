@@ -7,3 +7,4 @@
 
 # Setup
 To setup, modify [settings.json](settings.json), [channels.json](channels.json), and [roles.json](roles.json)
+Please change "yourdomain.com" to your domain where this project is hosted.
