@@ -1,9 +1,9 @@
 {
-  "yonetici": "831266653252878357",
-  "moderator": "831263581227057172",
-  "javascript": "720557416801894421",
-  "html": "720557416801894421",
-  "altyapilar": "720557416801894421",
+  "yonetici": "YONETICI ROLE",
+  "moderator": "MOD ROLE",
+  "javascript": "JAVASCRIPT ROLE",
+  "html": "HTML ROLE",
+  "altyapilar": "ALTYAPILAR ROLE",
   "besdavet": "720557416801894421",
   "ondavet": "720557416801894421",
   "onbesdavet": "720557416801894421",
@@ -22,5 +22,4 @@
   "certified_bot": "831263601549115432",
   "premium_developer": "831270077742841886",
   "premium_bot": "831270083669524480",
-  "ozel_bot": "831266790503481457"
 }
