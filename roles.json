@@ -16,10 +16,10 @@
   "supporter": "SUPPORTER ROLE",
   "bughunter": "BUG HUNTER ROLE",
 
-  "developer": "831263597198966835",
-  "certified_developer": "831263589347098634",
-  "bot": "831263605633581081",
-  "certified_bot": "831263601549115432",
-  "premium_developer": "831270077742841886",
-  "premium_bot": "831270083669524480",
+  "developer": "BOT DEVELOPER ROLE",
+  "certified_developer": "VERIFIED BOT DEVELOPER ROLE",
+  "bot": "BOT ROLE",
+  "certified_bot": "VERIFIED BOT ROLE",
+  "premium_developer": "PREMIUM BOT DEVELOPER",
+  "premium_bot": "PREMIUM BOT",
 }
