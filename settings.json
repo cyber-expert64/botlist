@@ -1,12 +1,13 @@
 {
   "token": "TOKEN",
   "prefix" : "!",
-  "owner" : ["586822327568695317","",""],
-  "clientid" : "BOT_İD",
-  "clientsecret" : "SCECRET",
-  "clientcallback" : "",
-  "mongoURL" : "",
-  "serverID": "",
-  "footer": "RabeL Code 2021 © All rights reserved.",
+  "owner" : ["OWNER ID 1", "OWNER ID 2"],
+  "clientid" : "CLIENT ID",
+  "clientsecret" : "CLIENT SECRET",
+  "clientcallback" : "https://yourdomain.com/callback",
+  "mongoURL" : "MONGODB URL",
+  "serverID": "MAIN SERVER ID",
+  "footer": "Rafe Cyber © All rights reserved.",
+  "url": "https://yourdomain.com/",
   "tags": ["Moderation", "Fun", "Minecraft","Economy","Guard","NSFW","Anime","Invite","Music","Logging", "Web Dashboard", "Reddit", "Youtube", "Twitch", "Crypto", "Leveling", "Game", "Roleplay", "Utility", "Turkish"]
 }
