@@ -1,13 +1,13 @@
 {
-  "token": "TOKEN",
+  "token": "ODYyOTAyNTM3ODI0NTAxNzYx.YOfGnA.MCsB5P3hQ6Ph3E-hKHJs-o9gOK8",
   "prefix" : "!",
-  "owner" : ["OWNER ID 1", "OWNER ID 2"],
-  "clientid" : "CLIENT ID",
-  "clientsecret" : "CLIENT SECRET",
-  "clientcallback" : "https://yourdomain.com/callback",
-  "mongoURL" : "MONGODB URL",
-  "serverID": "MAIN SERVER ID",
+  "owner" : ["839928503612997662"],
+  "clientid" : "862902537824501761",
+  "clientsecret" : "l6GqB6mXXCgKbqhMfQ8JTFcQMjr-IjMN",
+  "clientcallback" : "https://botlist.theofficialdev.co/callback",
+  "mongoURL" : "mongodb+srv://neo:Appgun2019@cluster0.fzmp5.mongodb.net/NeoBots?retryWrites=true&w=majority",
+  "serverID": "862903836124905472",
   "footer": "Rafe Cyber © All rights reserved.",
-  "url": "https://yourdomain.com/",
-  "tags": ["Moderation", "Fun", "Minecraft","Economy","Guard","NSFW","Anime","Invite","Music","Logging", "Web Dashboard", "Reddit", "Youtube", "Twitch", "Crypto", "Leveling", "Game", "Roleplay", "Utility", "Turkish"]
+  "url": "https://botlist.theofficialdev.co/",
+  "tags": ["Moderation", "Fun", "Minecraft","Economy","Guard","NSFW","Anime","Invite","Music","Logging", "Web Dashboard", "Reddit", "Youtube", "Twitch", "Leveling", "Game", "Roleplay", "Utility"]
 }
